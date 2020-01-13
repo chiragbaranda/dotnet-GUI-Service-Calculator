@@ -1,0 +1,10 @@
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\bin\Debug\Lab3B.exe.config
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.csprojAssemblyReference.cache
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.Lab3B.resources
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.exe
+C:\Users\CHIRAG\source\repos\Lab3B\Lab3B\obj\Debug\Lab3B.pdb
